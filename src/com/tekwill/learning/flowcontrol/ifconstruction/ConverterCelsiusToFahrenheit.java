@@ -7,7 +7,7 @@ public class ConverterCelsiusToFahrenheit {
         Scanner scanner = new Scanner (System.in);
         System.out.print("Enter a degree in Celsius: \n");
         double celsiusDegree = scanner.nextDouble();
-        System.out.println(celsiusDegree +" \b Celsius is " + ((9.0 / 5) * celsiusDegree + 32)+ " \b Fahrenheit");
+        System.out.println(celsiusDegree +" \b Celsius is " + ((9.0 / 5) * celsiusDegree + 32)+ " \b gitFahrenheit");
 
 
 
