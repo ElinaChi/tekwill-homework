@@ -12,7 +12,7 @@ public class ProcessionString {
         //display character at odd position
         int counter;
         for (counter = 0; counter < newWord.length(); counter++) {
-            if (counter % 2 == 0)
+            if (counter % 2! == 0)
                 System.out.print(newWord.charAt(counter));
 
         }
