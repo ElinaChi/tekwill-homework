@@ -42,6 +42,8 @@ public class VowelOrConstant {
                break;
             default: System.out.println (letter+ " Invalid input");
 
+
+
         }
     }
 }
